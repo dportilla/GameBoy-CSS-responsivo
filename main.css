@@ -239,7 +239,7 @@ body {
     margin-top: 7%;
 }
 
-@media screen and (max-width: 414px){
+@media screen and (max-width: 420px){
     .buttonsConsole .joystick .eje-y {
         width: 30px;
         height: 80px;
@@ -267,5 +267,19 @@ body {
         left: 50%;
         margin-top: 20%;
         height: 30px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .buttonsAB {
+        left: 65%;
+        margin-top: -35%;
+    }
+
+    .coolerGrid .cool {
+        left: 45%;
+    }
+    .ContStartSelect {
+        margin-top: 5%;
     }
 }
