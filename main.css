@@ -239,7 +239,7 @@ body {
     margin-top: 7%;
 }
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 414px){
     .buttonsConsole .joystick .eje-y {
         width: 30px;
         height: 80px;
